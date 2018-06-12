@@ -1,0 +1,2 @@
+# pasu-config
+Testing purpose
